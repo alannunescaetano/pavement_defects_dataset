@@ -3,7 +3,7 @@ val: ../valid/images
 test: ../test/images
 
 nc: 6
-names: ['Block crack', 'D00', 'D10', 'D20', 'D40', 'Repair']
+names: ['D00', 'D10', 'D20', 'D40']
 
 roboflow:
   workspace: thesis-yuxwe
