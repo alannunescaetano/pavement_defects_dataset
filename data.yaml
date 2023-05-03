@@ -1,8 +1,8 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: ./pavement_defects_dataset/train/images
+val: ./pavement_defects_dataset/valid/images
+test: ./pavement_defects_dataset/test/images
 
-nc: 6
+nc: 4
 names: ['D00', 'D10', 'D20', 'D40']
 
 roboflow:
